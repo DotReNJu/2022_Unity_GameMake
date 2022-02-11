@@ -435,3 +435,4 @@ Received Import Request.
 Start importing Assets/Script/Movement3D.cs using Guid(3d29257bd6ecd5948a141f619dfc3534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302dd1a29eec6aa3f543f32e00639b1e') in 0.005715 seconds 
   Import took 0.009808 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
